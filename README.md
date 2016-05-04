@@ -1,4 +1,4 @@
-# codici
+# Codici
 Codici C / C++ Ing. Informatica Poliba
 
 Libreria GitHub con tutti i codici scritti dagli studenti del primo anno di Ingengeria Informatica del Politecnico di Bari.
