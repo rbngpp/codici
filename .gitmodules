@@ -1,0 +1,3 @@
+[submodule "liste_C"]
+	path = liste_C
+	url = git@github.com:corsaroquad/liblista-edu.git
